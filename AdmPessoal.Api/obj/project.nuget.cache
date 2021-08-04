@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9dmOZWaYm39+vcMyBcD88+kjykwaHwEuLtzu9mPHyRKKGAz9MCtiVnWPzNcmFuc6WynEe1F2vx6J3+rpcsWuA==",
+  "success": true,
+  "projectFilePath": "C:\\EstudosProjetos\\ADMPessoal\\admpessoal.back\\AdmPessoal.API\\AdmPessoal.Api\\AdmPessoal.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
